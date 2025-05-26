@@ -1,6 +1,3 @@
-Below is an example of a clean, well-organized Markdown document for your project. You can copy and paste this into your project’s README.md file.
-
----
 
 # Minecraft Anamorphic Project
 
